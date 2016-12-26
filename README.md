@@ -1,4 +1,5 @@
-# Microview 3d Engine
+# Microview 3D Engine
+This sketch was saved from codebender before its demise.
 
 ## Presents a spinning 3D object on the MicroView's display
 
